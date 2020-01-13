@@ -1,0 +1,372 @@
+fileFormatVersion: 2
+guid: 1d6deef8c97687142b1a4617dfe73431
+timeCreated: 1513692607
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: bird
+    100002: bridge
+    100004: cloud_1
+    100006: cloud_2
+    100008: cloud_3
+    100010: cloud_4
+    100012: fence_1
+    100014: fence_2
+    100016: fence_3
+    100018: grass_1
+    100020: grass_2
+    100022: grass_3
+    100024: grass_4
+    100026: grass_5
+    100028: mountain_01
+    100030: mountain_02
+    100032: mountain_03
+    100034: mountain_04
+    100036: mountain_11
+    100038: mountain_12
+    100040: mountain_13
+    100042: mountain_14
+    100044: mountain_21
+    100046: mountain_22
+    100048: mountain_22 1
+    100050: mountain_23
+    100052: mountain_3
+    100054: //RootNode
+    100056: stone_1
+    100058: stone_2
+    100060: stone_3
+    100062: stone_4
+    100064: stone_5
+    100066: stone_6
+    100068: sun
+    100070: tree_1
+    100072: tree_2
+    100074: tree_3
+    100076: tree_4
+    100078: tree_5
+    100080: tree_6
+    400000: bird
+    400002: bridge
+    400004: cloud_1
+    400006: cloud_2
+    400008: cloud_3
+    400010: cloud_4
+    400012: fence_1
+    400014: fence_2
+    400016: fence_3
+    400018: grass_1
+    400020: grass_2
+    400022: grass_3
+    400024: grass_4
+    400026: grass_5
+    400028: mountain_01
+    400030: mountain_02
+    400032: mountain_03
+    400034: mountain_04
+    400036: mountain_11
+    400038: mountain_12
+    400040: mountain_13
+    400042: mountain_14
+    400044: mountain_21
+    400046: mountain_22
+    400048: mountain_22 1
+    400050: mountain_23
+    400052: mountain_3
+    400054: //RootNode
+    400056: stone_1
+    400058: stone_2
+    400060: stone_3
+    400062: stone_4
+    400064: stone_5
+    400066: stone_6
+    400068: sun
+    400070: tree_1
+    400072: tree_2
+    400074: tree_3
+    400076: tree_4
+    400078: tree_5
+    400080: tree_6
+    2300000: bird
+    2300002: bridge
+    2300004: cloud_1
+    2300006: cloud_2
+    2300008: cloud_3
+    2300010: cloud_4
+    2300012: fence_1
+    2300014: fence_2
+    2300016: fence_3
+    2300018: grass_1
+    2300020: grass_2
+    2300022: grass_3
+    2300024: grass_4
+    2300026: grass_5
+    2300028: mountain_01
+    2300030: mountain_02
+    2300032: mountain_03
+    2300034: mountain_04
+    2300036: mountain_11
+    2300038: mountain_12
+    2300040: mountain_13
+    2300042: mountain_14
+    2300044: mountain_21
+    2300046: mountain_22
+    2300048: mountain_22 1
+    2300050: mountain_23
+    2300052: mountain_3
+    2300054: stone_1
+    2300056: stone_2
+    2300058: stone_3
+    2300060: stone_4
+    2300062: stone_5
+    2300064: stone_6
+    2300066: sun
+    2300068: tree_1
+    2300070: tree_2
+    2300072: tree_3
+    2300074: tree_4
+    2300076: tree_5
+    2300078: tree_6
+    3300000: bird
+    3300002: bridge
+    3300004: cloud_1
+    3300006: cloud_2
+    3300008: cloud_3
+    3300010: cloud_4
+    3300012: fence_1
+    3300014: fence_2
+    3300016: fence_3
+    3300018: grass_1
+    3300020: grass_2
+    3300022: grass_3
+    3300024: grass_4
+    3300026: grass_5
+    3300028: mountain_01
+    3300030: mountain_02
+    3300032: mountain_03
+    3300034: mountain_04
+    3300036: mountain_11
+    3300038: mountain_12
+    3300040: mountain_13
+    3300042: mountain_14
+    3300044: mountain_21
+    3300046: mountain_22
+    3300048: mountain_22 1
+    3300050: mountain_23
+    3300052: mountain_3
+    3300054: stone_1
+    3300056: stone_2
+    3300058: stone_3
+    3300060: stone_4
+    3300062: stone_5
+    3300064: stone_6
+    3300066: sun
+    3300068: tree_1
+    3300070: tree_2
+    3300072: tree_3
+    3300074: tree_4
+    3300076: tree_5
+    3300078: tree_6
+    4300000: mountain_12
+    4300002: mountain_11
+    4300004: mountain_13
+    4300006: mountain_14
+    4300008: fence_3
+    4300010: fence_1
+    4300012: fence_2
+    4300014: bridge
+    4300016: stone_3
+    4300018: stone_1
+    4300020: stone_4
+    4300022: stone_2
+    4300024: grass_5
+    4300026: grass_1
+    4300028: grass_2
+    4300030: grass_4
+    4300032: tree_2
+    4300034: grass_3
+    4300036: mountain_22
+    4300038: mountain_22
+    4300040: mountain_23
+    4300042: mountain_21
+    4300044: mountain_01
+    4300046: mountain_03
+    4300048: mountain_04
+    4300050: mountain_02
+    4300052: tree_3
+    4300054: sun
+    4300056: bird
+    4300058: cloud_4
+    4300060: tree_6
+    4300062: tree_4
+    4300064: tree_1
+    4300066: stone_6
+    4300068: stone_5
+    4300070: tree_5
+    4300072: mountain_3
+    4300074: cloud_3
+    4300076: cloud_2
+    4300078: cloud_1
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 01 - Default
+    second: {fileID: 2100000, guid: e1cbf3f1f0d22d74c9a5ae3f3ad8be97, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 02 - Default
+    second: {fileID: 2100000, guid: e370db6db72b5ec41b38c1c2a0e3c006, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 03 - Default
+    second: {fileID: 2100000, guid: 98e90d44cfe1814479a93a854f0901ab, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 04 - Default
+    second: {fileID: 2100000, guid: 82f93b877b1e6b344be87157458d8490, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 05 - Default
+    second: {fileID: 2100000, guid: 6ecab17ea41264844a7222b36e4f152d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 06 - Default
+    second: {fileID: 2100000, guid: 7928baaf6cd5bfc449410e46d0b814a7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 07 - Default
+    second: {fileID: 2100000, guid: 1998f1a0394fd774bb9f1b0b19532552, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 08 - Default
+    second: {fileID: 2100000, guid: d40e2ecfc3bf1904cac67dabecf17c55, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 09 - Default
+    second: {fileID: 2100000, guid: ce68c3c23a92e7246b6a03aea1929bca, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 13 - Default
+    second: {fileID: 2100000, guid: c0980be12e006e44f8d8f97208e7532f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 14 - Default
+    second: {fileID: 2100000, guid: b8993dab0f101e443bb1f8176c6503e6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 16 - Default
+    second: {fileID: 2100000, guid: c984638acead0144985a8f1dd0950d2c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 19 - Default
+    second: {fileID: 2100000, guid: ebfa59b4fad275c47b0494e4668fcd80, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 20 - Default
+    second: {fileID: 2100000, guid: af7bac2d5b9886d45b3ae11a16d324f0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 21 - Default
+    second: {fileID: 2100000, guid: 4afd9eda85e0cf44cb534346a21fdb5a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 22 - Default
+    second: {fileID: 2100000, guid: d3d0f082bf20ba14abedc8fd2ef861cf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 23 - Default
+    second: {fileID: 2100000, guid: 034908a3f322ada4694c7c6891f607a8, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

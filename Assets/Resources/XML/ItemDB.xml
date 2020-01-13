@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ItemDB>
+  <Item id="0" name="평상복" type="0" description="활동하기 편한 캐주얼한 옷이다." icon="item_equip_defaultcloth"/>
+  <Item id="1" name="정장" type="0" description="깔끔한 나의 멋진 정장이다." icon="item_equip_suit"/>
+  <Item id="2" name="포근포근 겨울옷" type="0" description ="따뜻하게 겨울을 보낼 이쁜옷" icon="item_equip_tourwinter" />
+  <Item id="3" name="시원시원 여름옷" type="0" description ="시원하지만 심지어 멋짐 가득" icon="item_equip_toursummer" />
+  <Item id="4" name="노곤노곤 잠옷" type="0" description ="벌써 잠이 온다." icon="item_equip_sleep" />
+</ItemDB>

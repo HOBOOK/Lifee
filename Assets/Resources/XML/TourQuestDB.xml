@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ItemDB>
+  <Item id="0" name="여행의 준비1" meter="50" result="50"/>
+  <Item id="1" name="여행의 준비2" meter="100" result="100"/>
+  <Item id="2" name="여행의 준비3" meter="150" result="150"/>
+  <Item id="3" name="여행의 준비4" meter="200" result="200"/>
+  <Item id="4" name="여행의 준비5" meter="250" result="250"/>
+  <Item id="5" name="여행의 준비6" meter="300" result="300"/>
+  <Item id="6" name="여행의 준비7" meter="350" result="350"/>
+  <Item id="7" name="여행의 준비8" meter="400" result="400"/>
+  <Item id="8" name="여행의 준비9" meter="450" result="450"/>
+  <Item id="9" name="여행의 준비10" meter="500" result="500"/>
+  <Item id="10" name="여행의 시작1" meter="600" result="1000"/>
+  <Item id="11" name="여행의 시작2" meter="700" result="2000"/>
+  <Item id="12" name="여행의 시작3" meter="800" result="3000"/>
+  <Item id="13" name="여행의 시작4" meter="900" result="4000"/>
+  <Item id="14" name="여행의 시작5" meter="1000" result="5000"/>
+  <Item id="15" name="여행의 과정1" meter="1200" result="6000"/>
+  <Item id="16" name="여행의 과정2" meter="1400" result="7000"/>
+  <Item id="17" name="여행의 과정3" meter="1600" result="8000"/>
+  <Item id="18" name="여행의 과정4" meter="1800" result="9000"/>
+  <Item id="19" name="여행의 과정5" meter="2000" result="10000"/>
+  <Item id="20" name="여행의 끝" meter="2500" result="20000"/>
+
+</ItemDB>

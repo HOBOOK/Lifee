@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ExpDB>
+  <exp level="1" needExp="100"/>
+  <exp level="2" needExp="200"/>
+  <exp level="3" needExp="300"/>
+  <exp level="4" needExp="400"/>
+  <exp level="5" needExp="500"/>
+  <exp level="6" needExp="600"/>
+  <exp level="7" needExp="700"/>
+  <exp level="8" needExp="800"/>
+  <exp level="9" needExp="900"/>
+  <exp level="10" needExp="1000"/>
+  <exp level="11" needExp="2000"/>
+  <exp level="12" needExp="3000"/>
+  <exp level="13" needExp="4000"/>
+  <exp level="14" needExp="5000"/>
+  <exp level="15" needExp="6000"/>
+  <exp level="16" needExp="7000"/>
+  <exp level="17" needExp="8000"/>
+  <exp level="18" needExp="9000"/>
+  <exp level="19" needExp="10000"/>
+  <exp level="20" needExp="15000"/>
+  <exp level="21" needExp="20000"/>
+  <exp level="22" needExp="30000"/>
+  <exp level="23" needExp="40000"/>
+  <exp level="24" needExp="50000"/>
+  <exp level="25" needExp="60000"/>
+  <exp level="26" needExp="70000"/>
+  <exp level="27" needExp="80000"/>
+  <exp level="28" needExp="90000"/>
+  <exp level="29" needExp="100000"/>
+  <exp level="30" needExp="10000000"/>
+</ExpDB>

@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<FurnitrueDB>
+  <Item id="House" name="나의 집" description="행복이 커가는 보금자리" maxlevel="10" stat="0" requireUp="5" price="100000"/>
+  <Item id="Bed" name="따스한 침대" description="지치고 피곤할때는 자는게 어때요?" maxlevel="30" stat="5" requireUp="5" price="10000"/>
+  <Item id="Desk" name="시작의 책상" description="노력은 배반하지 않아요" maxlevel="30" stat="5" requireUp="1.5" price="20000"/>
+  <Item id="Bookcase" name="지혜의 책장" description="교양과 지식이 있는 사람은 멋있어요" maxlevel="30" stat="15"  requireUp="1.5" price="30000"/>
+  <Item id="Mirror" name="반성의 거울" description="가끔은 자신의 모습을 돌아보세요" maxlevel="30" stat="0" requireUp="1.5" price="50000"/>
+  <Item id="Cactus" name="강인한 선인장" description="당신이라면 잘 적응할꺼에요!" maxlevel="30" stat="0" requireUp="1.5" price="80000" />
+  <Item id="Shelf" name="여유로운 선반" description="여유롭게 즐기세요" maxlevel="30" stat="0" requireUp="1.5" price="130000" />
+  <Item id="Refrigerator" name="유지의 냉장고" description="좋은 마음을 유지하세요" maxlevel="30" stat="0" requireUp="1.5" price="210000" />
+  <Item id="Computer" name="혁신의 컴퓨터" description="당신이라면 잘 적응할꺼에요!" maxlevel="30" stat="0" requireUp="1.5" price="340000" />
+  <Item id="Sofa" name="안락한 소파" description="당신이라면 잘 적응할꺼에요!" maxlevel="30" stat="0" requireUp="1.5" price="580000" />
+  <Item id="Tv" name="즐거운 TV" description="당신이라면 잘 적응할꺼에요!" maxlevel="30" stat="0" requireUp="1.5" price="920000" />
+  <Item id="Guitar" name="힐링의 통기타" description="당신이라면 잘 적응할꺼에요!" maxlevel="30" stat="0" requireUp="1.5" price="1500000" />
+</FurnitrueDB>
